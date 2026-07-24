@@ -4,6 +4,6 @@ Visualizador de imágenes tipo BITMAP diseñado para la materia taller de progra
 #### Verlo en acción: https://youtu.be/39c1viDUW98
 
 ## Autor: ✒️
-* [Alejandro G. Vera](https://linkedin.com/in/alejandro-gonzalo-vera/)
+* [Alejandro G. Vera](https://elrinconsecretodelhacker.blogspot.com/)
 <br/></br>
 # Enjoy!
